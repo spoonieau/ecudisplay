@@ -1,5 +1,5 @@
 # ecudisplay
-Small demo for reading ECU PID with a Arduino Uno, Can Bus shelid and a I2C 20x4 2004 LCD. 
+Small demo for reading ECU PID's with a Arduino Uno, Can Bus shelid and a I2C 20x4 2004 LCD. 
 
 
 ## Dependencies 
